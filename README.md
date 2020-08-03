@@ -16,7 +16,7 @@
 
 
 **Screenshots:**<br>
-![](https://github.com/everydaycodings/A.I-Survival-Prediction-Model/blob/master/screenshot.png)
+![](https://github.com/everydaycodings/A.I-Survival-Prediction-Model/blob/master/screenshot.png)<br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
