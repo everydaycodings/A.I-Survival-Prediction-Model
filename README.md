@@ -11,7 +11,7 @@
 
 **Better Document Tutorial**<br>
 *I you want a better understand of this code then [click](https://www.tensorflow.org/tutorials/estimator/linear) this link it will redirect to Tensorflow Official Page where you can briefly learn and understand the Code.<br>
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/everydaycodings/everydaycodings)
 
 
 
